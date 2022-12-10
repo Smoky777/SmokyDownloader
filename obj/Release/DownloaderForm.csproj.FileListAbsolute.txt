@@ -1,0 +1,15 @@
+C:\Users\smoky\Source\Repos\DownloaderForm\bin\Release\DownloaderForm.exe.config
+C:\Users\smoky\Source\Repos\DownloaderForm\bin\Release\DownloaderForm.exe
+C:\Users\smoky\Source\Repos\DownloaderForm\bin\Release\DownloaderForm.pdb
+C:\Users\smoky\Source\Repos\DownloaderForm\obj\Release\DownloaderForm.csproj.AssemblyReference.cache
+C:\Users\smoky\Source\Repos\DownloaderForm\obj\Release\DownloaderForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoky\Source\Repos\DownloaderForm\obj\Release\DownloaderForm.Form1.resources
+C:\Users\smoky\Source\Repos\DownloaderForm\obj\Release\DownloaderForm.Properties.Resources.resources
+C:\Users\smoky\Source\Repos\DownloaderForm\obj\Release\DownloaderForm.csproj.GenerateResource.cache
+C:\Users\smoky\Source\Repos\DownloaderForm\obj\Release\DownloaderForm.csproj.CoreCompileInputs.cache
+C:\Users\smoky\Source\Repos\DownloaderForm\obj\Release\DownloaderForm.exe
+C:\Users\smoky\Source\Repos\DownloaderForm\obj\Release\DownloaderForm.pdb
+C:\Users\smoky\Source\Repos\DownloaderForm\bin\Release\DownloaderForm.exe.manifest
+C:\Users\smoky\Source\Repos\DownloaderForm\bin\Release\DownloaderForm.application
+C:\Users\smoky\Source\Repos\DownloaderForm\obj\Release\DownloaderForm.exe.manifest
+C:\Users\smoky\Source\Repos\DownloaderForm\obj\Release\DownloaderForm.application
