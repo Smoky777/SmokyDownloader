@@ -1,3 +1,1 @@
 # SmokySimpleDownloader
-# SmokySimpleDownloader
-# SmokyDownloader
